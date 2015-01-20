@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Sample App
 ===========
 **`Sample App`** is the application in process 
@@ -25,3 +26,7 @@ Things you may want to cover:
 
 Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
+=======
+# sample_app
+this repository is for buildin sample application
+>>>>>>> d316fbc89fdad1c85d6a0e6f4f1e0b559cbb3868
