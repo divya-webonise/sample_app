@@ -1,6 +1,6 @@
 @import "bootstrap-sprockets";
 @import "bootstrap";
-$black: #000;
+
 html {
   overflow-y: scroll;
 }
@@ -11,10 +11,6 @@ body {
 
 section {
   overflow: auto;
-}
-
-textarea {
-  resize: vertical;
 }
 
 .center {
@@ -71,9 +67,9 @@ p {
 
 footer {
   margin-top: 130px;
-  padding-top: 20px;
-  border-top: 1px solid black;
-  color: #777;
+  padding: 30px 0; 
+  border-top: 1px solid  #ebebeb;
+background-color: #ebebeb; 
   a {
    color: #555;
    &:hover {
@@ -92,3 +88,15 @@ footer {
    }
   }
 }
+
+.navbar-custom {
+    background-color: #CC3333;
+}
+
+/* navbar */
+.navbar-default {
+    background-color: #000;
+    border-color: #E7E7E7;
+}
+.navbar { min-height: 38px; background-color: #005B96; }
+
