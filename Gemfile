@@ -5,6 +5,9 @@ gem 'bcrypt',               '3.1.7'
 gem 'rails', '4.2.0'
 #bootstrap-sass is a Sass-powered version of Bootstrap
 gem 'bootstrap-sass',       '3.2.0.0'
+gem 'faker',                '1.4.2'
+gem 'will_paginate'
+gem 'bootstrap-will_paginate', '0.0.10'
 
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
