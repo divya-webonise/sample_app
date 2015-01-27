@@ -13,4 +13,4 @@ class Micropost < ActiveRecord::Base
       end
     end
 end
-end
+
