@@ -1,5 +1,5 @@
 
 Sample App
 ===========
-**`Sample App`** is the application in process 
+**`Sample App`** is the application which is useful for uploading pictures, doing posts, following different person.
 
